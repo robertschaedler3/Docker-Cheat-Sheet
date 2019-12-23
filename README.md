@@ -5,7 +5,7 @@
 
 ## Helpful Commands
 
-Create a DigitalOcean Dropley with `docker-machine`:
+Create a DigitalOcean Droplet with `docker-machine`:
 ```bash
 docker-machine create \
   --driver digitalocean \ 
