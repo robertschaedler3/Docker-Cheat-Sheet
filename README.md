@@ -1,6 +1,8 @@
 # Docker-Cheatsheet
 
 ## Articles
+* Docker Cleanup
+  * [Remove Images/Containers/Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 * [Dockerizing Angular CLI App](https://mherman.org/blog/dockerizing-an-angular-app/)
 
 ## Helpful Commands
