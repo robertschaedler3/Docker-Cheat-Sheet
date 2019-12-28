@@ -1,9 +1,12 @@
 # Docker-Cheatsheet
 
 ## Articles
+* Docker Compose
+  * [Running Multiple Instances of a Service](https://pspdfkit.com/blog/2018/how-to-use-docker-compose-to-run-multiple-instances-of-a-service-in-development/)
 * Docker Cleanup
   * [Remove Images/Containers/Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 * Docker Machine
+  * [Adding Existing Digital Ocean Droplets to Docker-Machine](https://medium.com/rayn-studios/adding-existing-digital-ocean-droplet-to-docker-machine-93dfb28e1d96)
   * [Mounting docker-machine Volumes Into Containers](https://docs.docker.com/machine/reference/mount/)
 * [Dockerizing Angular CLI App](https://mherman.org/blog/dockerizing-an-angular-app/)
 
